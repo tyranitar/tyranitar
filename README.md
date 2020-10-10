@@ -8,6 +8,14 @@ Check out this app that I made with my friend [Jonathan](https://github.com/jonm
 
 ![Lemma animation](images/lemma_anim.gif)
 
+Check out this animation that I made - it shows a neural network learning to separate data:
+
+<img src="images/nonlin_anim.gif" width="640" height="427">
+
+Check out this animation that I made - it shows convolution in action:
+
+<img src="images/conv_anim.gif" width="640" height="308">
+
 <!--
 **tyranitar/tyranitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
