@@ -4,7 +4,7 @@
 - 👔 Check out my [LinkedIn](https://www.linkedin.com/in/tyronjung/).
 - ✍️ Check out my [writing](https://medium.com/@tyronjung).
 
-Check out this app that helps students learn algebra that I made with my friend [Jonathan](https://github.com/jonmarkprice):
+Check out this app that I made with my friend [Jonathan](https://github.com/jonmarkprice) - it helps students learn algebra:
 
 ![Lemma animation](images/lemma_anim.gif)
 
