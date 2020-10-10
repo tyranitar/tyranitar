@@ -10,9 +10,9 @@ Check out this app that I made with my friend [Jonathan](https://github.com/jonm
 
 Check out this animation that I made - it shows a neural network learning to separate data:
 
-<img src="images/nonlin_anim.gif" width="640" height="427">
+![Nonlinear animation](images/nonlin_anim.gif)
 
-Check out this animation that I made - it shows convolution in action:
+Check out this other animation that I made - it shows convolution in action:
 
 <img src="images/conv_anim.gif" width="640" height="308">
 
