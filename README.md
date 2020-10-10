@@ -6,7 +6,7 @@
 
 Check out this app that helps students learn algebra that I made with my friend [Jonathan](https://github.com/jonmarkprice):
 
-![Lemma](images/lemma.gif)
+![Lemma animation](images/lemma_anim.gif)
 
 <!--
 **tyranitar/tyranitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
