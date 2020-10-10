@@ -12,7 +12,7 @@ Here's an animation that I made showing how a neural network learns to separate 
 
 ![Nonlinear animation](images/nonlin_anim.gif)
 
-And here's an animation that I made showing convolution in action:
+And here's another animation that I made showing convolution in action:
 
 <img src="images/conv_anim.gif" width="640" height="308">
 
