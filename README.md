@@ -8,11 +8,11 @@ Check out this app that I made with my friend [Jonathan](https://github.com/jonm
 
 ![Lemma animation](images/lemma_anim.gif)
 
-Check out this animation that I made - it shows a neural network learning to separate data:
+Here's an animation that I made showing how a neural network learns to separate data:
 
 ![Nonlinear animation](images/nonlin_anim.gif)
 
-Check out this other animation that I made - it shows convolution in action:
+And here's an animation that I made showing convolution in action:
 
 <img src="images/conv_anim.gif" width="640" height="308">
 
