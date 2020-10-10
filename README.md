@@ -1,4 +1,4 @@
-### I don't always code - but when I do, I'm trying to help humans learn.
+### 👋 I don't always code - but when I do, I'm trying to help humans learn.
 
 - 🎓 University of Waterloo alum.
 - 👔 Check out my [LinkedIn](https://www.linkedin.com/in/tyronjung/).
