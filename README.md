@@ -1,4 +1,12 @@
-### Hi there 👋
+### I don't always code - but when I do, I'm trying to help humans learn.
+
+- 🎓 University of Waterloo alum.
+- 👔 Check out my [LinkedIn](https://www.linkedin.com/in/tyronjung/).
+- ✍️ Check out my [writing](https://medium.com/@tyronjung).
+
+Check out this app that helps students learn algebra that I made with my friend [Jonathan](https://github.com/jonmarkprice):
+
+![Lemma](images/lemma.gif)
 
 <!--
 **tyranitar/tyranitar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
