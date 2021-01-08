@@ -8,10 +8,13 @@ Check out this app that I made with my friend [Jonathan](https://github.com/jonm
 
 ![Lemma animation](images/lemma_anim.gif)
 
-Here's an animation that I made showing how a neural network learns to separate data:
+Check out these animations I created for educational purposes:
 
-![Nonlinear animation](images/nonlin_anim.gif)
-
-And here's another animation that I made showing convolution in action:
-
-<img src="images/conv_anim.gif" width="640" height="308">
+| Continuous Space | Discrete Space |
+| :-: | :-: |
+| ![Nonlinear animation](images/nonlin_anim.gif) | <img src="images/daydream_anim.gif" width="256" height="256"> |
+| A neural network learning to separate data. | A neural network daydreaming about handwritten digits. |
+| ![MLP surface animation](images/mlp_surface_anim.gif) | <img src="images/ant_colony_anim.gif" width="256" height="256"> |
+| The output landscape of a neural network as it learns. | Simulation of an ant colony gathering food. |
+| <img src="images/ifft_surface_anim.gif"> | <img src="images/conv_anim.gif"> |
+| An image signal (left) and included frequencies (right). | Image convolution in action. |
