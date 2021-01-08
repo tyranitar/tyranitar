@@ -12,7 +12,7 @@ Here are some animations that I created for educational purposes:
 
 | Continuous Space | Discrete Space |
 | :-: | :-: |
-| ![Nonlinear animation](images/nonlin_anim.gif) | <img src="images/daydream_anim.gif" width="300" height="300"> |
-| A neural network learning to separate data. | A neural network daydreaming about handwritten digits. |
-| ![MLP surface animation](images/mlp_surface_anim.gif) | <img src="images/ants_anim.gif" width="300" height="300"> |
+| ![Nonlinear animation](images/nonlin_anim.gif) | <img src="images/daydream_anim.gif" width="256" height="256"> |
+| A neural network learning to separate data. | An [RBM](https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine) daydreaming about handwritten digits. |
+| ![MLP surface animation](images/mlp_surface_anim.gif) | <img src="images/ants_anim.gif" width="256" height="256"> |
 | The output landscape of a neural network as it learns. | Simulation of an ant colony gathering food. |
